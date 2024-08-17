@@ -89,8 +89,6 @@ ax1.imshow(im_convert(content))
 ax2.imshow(im_convert(target))
 ```
 
-- Final Result => ![style_transfer_result](/images/style_transfer_result.png)
-
 ## References
 
 - [Gatys et al. (2016) - A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
