@@ -74,7 +74,7 @@ After running the code, you should see:
 
 - `input_content.jpg`: The original content image. (me🙃)
 - `input_style.jpg`: The original style image.
-![in_out.jpg](style_transfer_input.png)
+![in_out.jpg](style_transfer_initial.png)
 
 - `target.jpg`: The final output image with the style of `input_style.jpg` applied to the content of `input_content.jpg`.
   ![output](/images/style_transfer_result.png)
