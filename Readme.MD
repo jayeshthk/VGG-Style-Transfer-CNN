@@ -1,4 +1,3 @@
-````markdown
 # Style Transfer Application using Convolutional Neural Networks
 
 ## Overview
@@ -21,7 +20,6 @@ You can install the required packages using pip:
 ```bash
 pip install torch torchvision pillow matplotlib numpy
 ```
-````
 
 ### Code Description
 
